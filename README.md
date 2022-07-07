@@ -39,10 +39,10 @@ This application requires you first install the following dependencies to run co
 To use the financial planning tool simply clone the repository and run the **financial_planning_tools.ipynb** with:
 
 ```jupyterlab
-python financial_planning_tools.ipynb
+python san_francisco_housing.ipynb
 ```
 
-Upon launching the financial planning tool notebook, you can see the analysis of the member's current holdings and potential earnings.
+Upon launching the housing data notebook, you can see the analysis of the housing prices in the SFO area.
 
 ---
 
